@@ -1,2 +1,2 @@
-# Compression_using_SVD
+# Compression using SVD
 Using Singular Value Decomposition to perform Lossy Compression of Images
